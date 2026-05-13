@@ -6,7 +6,7 @@ import webbrowser
 # define the main window
 root=tk.Tk()
 root.title("YOUR AI ASSISTANT")
-
+ 
 # adding a background color
 root.configure(bg='steelblue')
 
